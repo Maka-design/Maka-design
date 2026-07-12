@@ -1,6 +1,6 @@
 # 👋 Salve! bem vindo ao meu perfil do Github.
 ## Meu nome é V. Igor e meu nickname é "Maka"!
-## Estou estudando JavaScript na alura
+## Estou estudando JavaScript na Alura
 ## Estou aprendendo lógica de programação e GitHub
 ## Pretendo aprender as principais linguagens JavaScript, HTML, C, C++
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
